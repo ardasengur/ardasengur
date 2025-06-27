@@ -1,14 +1,9 @@
 ### <div align="center">I'm Arda, a half-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Codeizm](https://www.codeizm.com/)  
+- 🔭 I’m currently working on [Portfolio](https://ardasengur.com/)  
   
-
 - 🌱 I’m currently learning Restapi  
-  
-
-- ❓ Ask me about anything related to Cryptology and Embedded systems  
-  
 
 <br/>  
 
@@ -76,9 +71,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ardasengur&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 ## Recent Blog Posts  
